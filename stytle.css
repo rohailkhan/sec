@@ -1,14 +1,34 @@
 .mine{
-	color:yellow;
+	color:white;
 	text-align: center;
 vertical-align: middle;
 padding-top: 20%;
 font-size: 50px;
+font-family: Lato;
 
 
+}
+h1,h3 {
+    text-shadow: 0px 4px 3px red,
+    			0px 8px 13px orange
+    			;
+}
+h1{
+	font-weight: 80;
+	font-size: 2em;
 }
 body{
 	background: url("http://i.dawn.com/large/2015/12/567d1ca45aabe.jpg");
 	background-size: cover;
 	background-position: center;
 }
+.btn-default {
+    color: yellow;
+    background-color: red;
+    border-color: #ccc;}
+    html{
+    	height: 100%;
+    }
+    hr{
+    	width: 50%;
+    }
